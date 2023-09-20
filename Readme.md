@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Яна Галиаскерова](https://up.htmlacademy.ru/htmlcss/38/user/2409939).
-* Наставник: `Неизвестно`.
+* Наставник: `Ирина Малиновская`(https://htmlacademy.ru/profile/irina-malinovskaya).
 
 ---
 
